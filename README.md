@@ -1,2 +1,6 @@
 # iOS_projects
-iOS applications for MediprospectsAI
+iOS applications for MediprospectsAI.
+
+- Created a sentiment analysis of Twitter Data utilising the Twitter API, CoreML 2, Natural Language Processing and Machine Learning models.  
+- Built a messaging application integrating cloud backend database with Firebase Firestore to store and retrieve messages.
+
